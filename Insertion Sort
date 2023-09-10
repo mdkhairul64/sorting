@@ -24,7 +24,7 @@ void insertion_sort(int arr[], int n)
 int main()
 {
 	//take element and place it in it correct position this is basically insertion sort
-	//
+	//basically insert means add somethng but in sortng insert mean adding a element according to acending or descending order
 
 	int n;
 	cin >> n;
